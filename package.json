@@ -1,0 +1,15 @@
+{
+  "name": "pylp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejemplo1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chunk": "^0.0.3",
+    "random-array-generator": "^1.0.7"
+  }
+}
